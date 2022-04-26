@@ -6,10 +6,10 @@ public class cau64 {
         // cau64 c = new cau64[];
         cau64[] c = new cau64[10];
         String a = new String("ello");
-        c.menthod(s);
+        c.method(s);
     }
 
-    public void menthod(String s) {
+    public void method(String s) {
         // char c = 'H';
         String c = "H";
         c += s;
