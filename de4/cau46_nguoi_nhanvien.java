@@ -1,6 +1,6 @@
 package de4;
 
-public class p {
+public class cau46_nguoi_nhanvien {
     class Nguoi {
         String ten = "Le Van Teo";
         int namsinh = 1987;
