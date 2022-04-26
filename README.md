@@ -46,7 +46,7 @@ bài viết đính kèm code tham khảo lần lượt các chủ đề:
 
 - <mark><b>JRE, JVM and JDK</b></mark>
 
-  - _**JRE như là một runtime environment**_, nó gồm có:
+  - _**JRE như là một java runtime environment**_, nó gồm có:
     - Java class loader chịu trách nhiệm nạp các classes và kết nối chúng với các thư viện Java (Java libraries)
     - _**Java virtual machine (JVM)**_ chịu trách nhiệm đảm bảo ứng dụng Java có đủ tài nguyên để chúng thực thi tốt trong thiết bị hoặc môi trường đám mây và là một phần mềm giả lập một máy tính, trong đó có tập lệnh định nghĩa các tác vụ java.exe
 
