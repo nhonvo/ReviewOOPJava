@@ -20,7 +20,9 @@ public class exception_handing {
 
         } catch (NumberFormatException e) {
             System.out.println("Bad number");
+
         }
+
     }
 }
 
