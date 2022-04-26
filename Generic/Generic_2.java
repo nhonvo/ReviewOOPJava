@@ -1,7 +1,7 @@
 package Generic;
 import java.util.ArrayList;
 
-public class Generic_2 {
+    public class Generic_2 {
     public static void main(String[] args) {
         ArrayList<String> userNames = new ArrayList<>();
         userNames.add("Tom");
