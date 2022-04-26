@@ -11,7 +11,9 @@ public class throw_exception_ex {
     }
 
     public static void main(String[] args) {
+        validate(19);
+        // output: Welcome
         validate(13);
-
+        // output: Exception in thread "main" java.lang.ArithmeticException: not valid
     }
 }

@@ -15,6 +15,6 @@ public class exception_handing_ex2 {
 
     public static void obsoleteMethod() {
         throw new RuntimeException();
-
+        // output: BCD
     }
 }
