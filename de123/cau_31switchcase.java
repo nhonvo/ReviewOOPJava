@@ -1,3 +1,4 @@
+package de123;
 
 public class cau_31switchcase {
 

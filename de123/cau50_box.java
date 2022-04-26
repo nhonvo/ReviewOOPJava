@@ -1,3 +1,4 @@
+package de123;
 public class cau50_box {
     int x, y, z;
 

@@ -1,5 +1,5 @@
 
-class cau65_Test {
+class cau65_Pass {
     static int j = 20;
 
     public void amethod(int x) {
@@ -9,11 +9,13 @@ class cau65_Test {
 
     public static void main(String[] argv) {
         int i = 10;
-        cau65_Test p = new cau65_Test();
+        cau65_Pass p = new cau65_Pass();
 
         p.amethod(i);
         // phương thức có modify là void không trả về => giá trị i không đổi
         System.out.println(i);
         System.out.println(j);
+        // output: 10
+        // output: 40
     }
 }
