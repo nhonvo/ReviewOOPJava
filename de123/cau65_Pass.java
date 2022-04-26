@@ -1,3 +1,4 @@
+package de123;
 
 class cau65_Pass {
     static int j = 20;
