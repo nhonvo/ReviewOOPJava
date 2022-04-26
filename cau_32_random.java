@@ -6,23 +6,24 @@ public class cau_32_random {
     // Cach su dung ham ramdom
     public void randd() {
         Random rd = new Random();
+        // int iRand = Math.random();// Lỗi sai cú pháp
         // int a = rd.nextInt() % 10;
-        // System.out.println(Math.abs(a));
         int a = rd.nextInt(10);
+        // Or iRand = (int) (Math.random() * 10);
         System.out.println(a);
         for (int i = 0; i < 10; i++) {
             System.out.println(rd.nextInt(10));
-
+            
         }
-
+        
     }
-
+    
     public static void main(String argv[]) {
-        int iRand;
-        iRand = Math.random();
-        System.out.println(iRand);
-        // must be declared random object before call and use methods (nextInt, nextLong, ...)
-        // cau_32_random r = new cau_32_random();
-        // r.randd();
+        int a = -5;
+        System.out.println(Math.abs(a)); //Test math library
+        // must be declared random object before call and use methods (nextInt,
+        // nextLong, ...)
+        cau_32_random r = new cau_32_random();
+        r.randd();
     }
 }
