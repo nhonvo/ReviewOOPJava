@@ -1,6 +1,5 @@
-public class chuoiJava{
+public class chuoiJava {
 
-    
     public static void main(String[] args) {
         // create String a
         String a = "Hello";
@@ -10,5 +9,6 @@ public class chuoiJava{
         String c = a + " " + b;
         // print c
         System.out.println(c);
+
     }
-}   
+}
