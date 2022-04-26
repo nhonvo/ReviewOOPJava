@@ -119,6 +119,14 @@ bài viết đính kèm code tham khảo lần lượt các chủ đề:
 
 <mark> _**Lỗi biên dịch và lỗi thực thi**_</mark>
 
+- __`NoSuchMethodException`__: Lỗi do viết sai tên phương thức (hành vi) 
+- __`IOexception`__: Lỗi nhập xuất 
+- __`IllegalAccessException`__: Lỗi do truy cập class bị cấm 
+- __`ArithmeticException`__: Lỗi do thực thi 1 phép toán
+- __`SecurityException`__: Lỗi do truy cập bị cấm
+- __`NullPointerException`__: Lỗi do truy xuất phương thức mà chưa khởi tạo 
+- __`ArrayIndexOutOfBoundsException`__: Lỗi do truy cập ngoài tầm của mảng
+
 | `Compile-Time Errors`                                                | `Runtime-Errors`                                                                       |
 | -------------------------------------------------------------------- | -------------------------------------------------------------------------------------- |
 | These are the syntax errors which are detected by the compiler.      | These are the errors which are not detected by the compiler and produce wrong results. |
