@@ -23,4 +23,4 @@ public class exception_handing_ex3 {
     }
 
     // output: MyException0 caught
-}
+}//

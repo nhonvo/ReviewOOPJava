@@ -9,7 +9,7 @@ public class cau44 {
         String name;
 
         abstract void OutSalary();
-
+//
     }
     abstract class Manager extends Employee {
         public Manager(String name, int salary) {

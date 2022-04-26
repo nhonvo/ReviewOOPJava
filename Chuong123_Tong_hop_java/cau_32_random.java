@@ -15,7 +15,7 @@ public class cau_32_random {
         for (int i = 0; i < 10; i++) {
             System.out.println(rd.nextInt(10));
             
-        }//
+        }
         
     }
     

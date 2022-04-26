@@ -218,6 +218,7 @@ từ khóa: implements
 
 <style>
     .center {
+        /*  */
         display: block;
         margin-left: auto;
         margin-right: auto;
