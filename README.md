@@ -1,9 +1,5 @@
 # Review_Object_oriented_programming_OOP_JAVA
 
-# Author
-
-- Võ Thương Trường Nhơn
-- Lê Hiếu Nghĩa
 
 </br>
 
@@ -227,3 +223,8 @@ từ khóa: implements
         margin-right: auto;
 }
 </style>
+
+# Author
+
+- Võ Thương Trường Nhơn
+- Lê Hiếu Nghĩa
