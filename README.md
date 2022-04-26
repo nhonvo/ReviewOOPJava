@@ -1,5 +1,13 @@
 # Review_Object_oriented_programming_OOP_JAVA  
 </br>
+Bài viết về ôn tập cơ bản về OOP trong ngôn ngữ Java. Bài viết còn nhiều thiếu xót mong mọi người bỏ qua.
+
+bài viết đính kèm code tham khảo lần lượt các chủ đề:
+Chương 1, 2, 3: Tổng hợp java
+Chương 5, 7: Trừu tượng 
+Chương 6: Exception Hangding Ex
+Chương 8: Generic 
+</br>
 
 # Note java OOP _ **Lession 1 - 2 -3 Java basic**
 </br>

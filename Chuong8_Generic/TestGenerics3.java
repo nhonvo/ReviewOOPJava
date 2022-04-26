@@ -1,4 +1,4 @@
-package GENERIC;
+package Chuong8_Generic;
 
 class MyGeneric<T> {
     T obj;

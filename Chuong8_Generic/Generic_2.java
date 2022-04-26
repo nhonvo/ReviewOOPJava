@@ -1,4 +1,4 @@
-package Generic;
+package Chuong8_Generic;
 import java.util.ArrayList;
 
     public class Generic_2 {

@@ -1,4 +1,4 @@
-package GENERIC;
+package Chuong8_Generic;
 
 public class TestGenerics4 {
     public static <E> void printArray(E[] elements) {

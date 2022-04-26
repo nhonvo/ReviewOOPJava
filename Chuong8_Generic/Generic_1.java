@@ -1,4 +1,4 @@
-package Generic;
+package Chuong8_Generic;
 
 import java.util.Arrays;
 import java.util.List;

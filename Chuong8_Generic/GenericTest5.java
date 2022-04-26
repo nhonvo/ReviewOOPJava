@@ -1,4 +1,4 @@
-package GENERIC;
+package Chuong8_Generic;
 
 import java.util.ArrayList;
 import java.util.List;
