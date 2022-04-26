@@ -1,3 +1,4 @@
+package Chuong4_KeThua;
 public class Cau13_HangHoa {
     protected  String MaHang, TenHang, NhaSX;
     Cau13_HangHoa(String MaHang, String TenHang, String NhaSX){

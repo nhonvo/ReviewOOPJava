@@ -1,4 +1,4 @@
-package de123;
+package Chuong123_Tong_hop_java;
 public class cau50_box {
     int x, y, z;
 

@@ -1,4 +1,4 @@
-package Exception_Handing_Ex;
+package Chuong6_Exception_Handing_Ex;
 
 class MyException0 extends Exception {
 }

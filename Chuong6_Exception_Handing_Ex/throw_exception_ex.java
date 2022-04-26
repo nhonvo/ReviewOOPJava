@@ -1,4 +1,4 @@
-package Exception_Handing_Ex;
+package Chuong6_Exception_Handing_Ex;
 
 public class throw_exception_ex {
     public static void validate(int age) {

@@ -1,4 +1,4 @@
-package de4;
+package Chuong4_KeThua;
 
 public class cau46_nguoi_nhanvien {
     class Nguoi {

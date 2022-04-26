@@ -1,4 +1,4 @@
-package Exception_Handing_Ex;
+package Chuong6_Exception_Handing_Ex;
 
 public class exception_handing {
     public static void main(String[] args) {

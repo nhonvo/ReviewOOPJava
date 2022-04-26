@@ -1,4 +1,4 @@
-package de123;
+package Chuong123_Tong_hop_java;
 class Nguoi {
 
     String ten = "Le Van Teo";

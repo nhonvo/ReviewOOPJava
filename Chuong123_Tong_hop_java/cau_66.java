@@ -1,4 +1,4 @@
-package de123;
+package Chuong123_Tong_hop_java;
 public class cau_66 {
      public static void main(String[] argv) {
         cau_66 l = new cau_66();

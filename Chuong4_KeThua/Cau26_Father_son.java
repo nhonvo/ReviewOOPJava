@@ -1,3 +1,4 @@
+package Chuong4_KeThua;
 class father {
     void output() {
         System.out.println("my father");

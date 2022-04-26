@@ -1,4 +1,4 @@
-package de4;
+package Chuong4_KeThua;
 
 class PhongBan {
     String map = "P01", tenp = "Ke hoach";
