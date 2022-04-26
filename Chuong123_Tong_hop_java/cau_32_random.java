@@ -16,6 +16,8 @@ public class cau_32_random {
         // Or iRand = (int) (Math.random() * 10);
         // output: 1 - 9
         System.out.println(a);
+
+        // sử dụng trên vòng for
         for (int i = 0; i < 10; i++) {
             System.out.println(rd.nextInt(10));
             
@@ -28,6 +30,7 @@ public class cau_32_random {
         System.out.println(Math.abs(a)); //Test math library
         // must be declared random object before call and use methods (nextInt,
         // nextLong, ...)
+        
         cau_32_random r = new cau_32_random();
         r.randd();
     }
