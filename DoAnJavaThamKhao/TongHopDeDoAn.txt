@@ -1,0 +1,59 @@
+Đề 1: 
+1>Xay dung lop phan so voi hai thuoc tinh rieng xac dinh tu so va mau so cua phan so va xay dung cac Phuong thuc: 
+  -Cac toan tu tao lap 
+  -Cac phep toan cong ,tru ,nhan ,chia cac phan so 
+  -phep kiem tra mot phan so co phai toi gian hay ko 
+  -Phep tim dang toi gian cua phan so.
+ 
+2>Viet chuong trinh ung dung thuc hien viec nhap vao mot day cac phan so va in ra man hinh dang toi gian cua cac phan so do.
+
+Đề 2: 
+Một đơn vị sản xuất gồm có các cán bộ là công nhân, kỹ sư, nhân viên. 
+    + Mỗi cán bộ cần quản lý lý các thuộc tính: Họ tên, năm sinh, giới tính, địa chỉ 
+    + Các công nhân cần quản lý: Bậc (công nhân bậc 3/7, bậc 4/7 ...) 
+    + Các kỹ sư cần quản lý: Ngành đào tạo 
+    + Các nhân viên phục vụ cần quản lý thông tin: công việc 1. Xây dựng các lớp NhanVien, CongNhan, KySu kế thừa từ lớp CanBo 
+2. Xây dựng các hàm để truy nhập, hiển thị thông tin và kiểm tra về các thuộc tính của các lớp. 
+3. Xây dựng lớp QLCB cài đặt các phương thức thực hiện các chức năng sau: 
+    - Nhập thông tin mới cho cán bộ 
+    - Tìm kiếm theo họ tên 
+    - Hiển thị thông tin về danh sách các cán bộ 
+    - Thoát khỏi chương trình. 
+
+Đề 3: 
+Một thư viện cần quản lý các tài liệu bao gồm, Sách, Tạp chí, Báo 
+    + Mỗi tài liệu có các thuộc tính: Mã tài liệu, Tên nhà xuất bản, Số bản phát hành. 
+    + Các loại sách cần quản lý: Tên tác giả, số trang 
+    + Các tạp chí cần quản lý: Số phát hành, tháng phát hành 
+    + Các báo cần quản lý: ngày phát hành. 
+1. Xây dựng các lớp để quản lý các loại tài liệu trên sao cho việc sử dụng lại được nhiều nhất. 
+2. Xây dựng lớp QuanLySach cài đặt các phương thức thực hiện các công việc sau: 
+    - Nhập thông tin về các tài liệu 
+    - Hiển thị thông tin về các tài liệu 
+    - Tìm kiếm tài liệu theo loại 
+    - Thoát khỏi chương trình 
+
+Đề 4: Các thí sinh dự thi đại học bao gồm các thí sinh thi khối A, thí sinh thi khối B, thí sinh thi khối C 
+    + Các thí sinh cần quản lý các thuộc tính: Số báo danh, họ tên, địa chỉ, ưu tiên. 
+    + Thí sinh thi khối A thi các môn: Toán, lý, hoá 
+    + Thí sinh thi khối B thi các môn: Toán, Hoá, Sinh 
+    + Thí sinh thi khối C thi các môn: văn, Sử, Địa 
+1. Xây dựng các lớp để quản lý các thí sinh sao cho sử dụng lại được nhiều nhất. 
+2. Xây dựng lớp TuyenSinh cài đặt các phương thức thực hiện các nhiệm vụ sau: 
+    - Nhập thông tin về các thí sinh dự thi 
+    - Hiển thị thông tin về một thí sinh 
+    - Tìm kiếm theo số báo danh 
+    - Kết thúc chương trình. 
+    
+Đề 5: Để quản lý các hộ dân trong một khu phố, người ta quản lý các thông tin như sau: 
+- Với mỗi hộ dân, có các thuộc tính: 
+    + Số thành viên trong hộ ( số người) 
+    + Số nhà của hộ dân đó. ( Số nhà được gắn cho mỗi hộ dân) 
+    + Thông tin về mỗi cá nhân trong hộ gia đình. 
+- Với mỗi cá nhân, người ta quản lý các thông tin như: họ và tên, tuổi, năm sinh, nghề nghiệp. 
+1. Hãy xây dựng lớp Nguoi để quản lý thông tin về mỗi cá nhân. 
+2. Xây dựng lớp KhuPho để quản lý thông tin về các hộ gia đình. 
+3. Viết các phương thức nhập, hiển thị thông tin cho mỗi cá nhân. 
+4. Cài đặt chương trình thực hiện các công việc sau: 
+    - Nhập vào một dãy gồm n hộ dân (n - nhập từ bàn phím). 
+    - Hiển thị ra màn hình thông tin về các hộ trong khu phố. 

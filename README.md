@@ -67,7 +67,7 @@ bài viết đính kèm code tham khảo lần lượt các chủ đề:
 
 ` (*) Nếu tên chứa nhiều từ, nó nên được phân tách bằng dấu chấm (.) Như java.util, java.lang.`
 
-`(**) nếu nhiều chữ ắt đầu nó bằng một chữ cái viết thường theo sau là một chữ cái viết hoa`
+`(**) nếu nhiều chữ bắt đầu nó bằng một chữ cái viết thường theo sau là một chữ cái viết hoa`
 
 `(***)Nó nên được viết bằng chữ in hoa như RED, YELLOW. Nếu tên chứa nhiều từ, nó phải được phân tách bằng dấu gạch dưới (_)`
 

@@ -16,3 +16,4 @@ public class Generic_1 {
         return Arrays.stream(a).collect(Collectors.toList());
     }
 }
+
