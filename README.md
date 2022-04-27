@@ -63,7 +63,7 @@ bài viết đính kèm code tham khảo lần lượt các chủ đề:
 | \_      | class                         | interface | method           | biến             | package        | hằng               |
 | ------- | ----------------------------- | --------- | ---------------- | ---------------- | -------------- | ------------------ |
 | loại từ | danh từ                       | tính từ   | động từ          | chữ cái          | chữ cái        | chữ cái            |
-| bắt đầu | chữ Hoa (or thêm chữ 'I' đầu) | chữ Hoa   | chữ thường(\*\*) | chữ thường(\*\*) | chữ thường(\*) | chữ in Hoa(\*\*\*) |
+| bắt đầu | chữ Hoa  | chữ Hoa(or thêm chữ 'I' đầu)   | chữ thường(\*\*) | chữ thường(\*\*) | chữ thường(\*) | chữ in Hoa(\*\*\*) |
 
 ` (*) Nếu tên chứa nhiều từ, nó nên được phân tách bằng dấu chấm (.) Như java.util, java.lang.`
 
