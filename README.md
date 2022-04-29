@@ -176,9 +176,9 @@ ví dụ: URL, URLConnection, Socket, ServerSocket, ...
 
 # Note java OOP \_ **Lession 5 Polymorphism-đa hình**
 
-- `_`**Overriding**`_` và `_`**Overloading**`_` - `_`**Overloading**`_`: Cho phép sửa code của một phương thức mà lớp con thừa kế từ lớp cha để lớp con phản ứng khác với lớp cha
+- **Overriding** và **Overloading** - **Overloading**: Cho phép sửa code của một phương thức mà lớp con thừa kế từ lớp cha để lớp con phản ứng khác với lớp cha
 
-      - `_`__Overriding__`_`: Cho phép sửa code của một hành vi mà lớp con thừa kế từ lớp cha để lớp con phản ứng khác với lớp cha
+      - __Overriding__: Cho phép sửa code của một hành vi mà lớp con thừa kế từ lớp cha để lớp con phản ứng khác với lớp cha
 
   ![over*](img/overiding-va-overloading-63739896651.9348.jpg)
 
@@ -189,19 +189,19 @@ ví dụ: URL, URLConnection, Socket, ServerSocket, ...
 | Có thể khác nhau về số lượng và kiểu dữ liệu của tham số | Số lượng và kiểu dữ liệu của tham số phải giống nhau |
 | Xảy ra trong cùng một class                              | Xảy ra ở 2 class có quan hệ kế thừa                  |
 
-- `_`**Tính đa hình**`_`:
+- **Tính đa hình**:
 
   - Là đa hình thái, nhiều cách phản ứng khác nhau cho cùng một phương thức
 
   - Có được là nhờ kỹ thuật override phương thức giữa 2 lớp cha con.
 
-- `_`**super**`_` : Truy cập các thuộc tính và hàm của lớp cha.
+- **super** : Truy cập các thuộc tính và hàm của lớp cha.
 
-- `_`**final**`_` : không cho phép lớp con thay đổi một hàm nào đó của lớp cha
+- **final** : không cho phép lớp con thay đổi một hàm nào đó của lớp cha
 
   - PS: Khi khai báo final một class: _Lớp đó không cho kế thừa_
 
-- `_`_**lớp trong lớp**`_`\_: Khi khai báo một lớp nằm trong một lớp khác
+- **lớp trong lớp**\: Khi khai báo một lớp nằm trong một lớp khác
   - Lớp ngoài không được phép truy cập thẳng các thuộc tính và hàm của lớp trong.
   - Lớp trong thì truy cập thẳng các thuộc tính và hàm của lớp ngoài.
   - Lớp ngoài muốn truy cập lớp trong thì phải định nghĩa một đối tượng lớp trong.
